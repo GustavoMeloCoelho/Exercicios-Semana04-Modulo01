@@ -19,7 +19,7 @@ function addition(event) {
         operationResult = number1/number2;
     }
     
-    document.getElementById("result").innerHTML = "Resultado: "+operationResult;
+    document.getElementById("result").innerHTML = "Resultadooo: "+operationResult;
 }   
 
 document.getElementById("form-calculator").addEventListener("submit", addition);
